@@ -28,7 +28,6 @@
 
 ### 🐍 Snake comendo os commits
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andrefx14/andrefx14/output/github-contribution-grid-snake.svg" />
 </p>

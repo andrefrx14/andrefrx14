@@ -18,8 +18,8 @@
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrefx14&show_icons=true&theme=radical&count_private=true&hide=issues" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefx14&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrefx14&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefx14&layout=compact&theme=radical" />
 </p>
 
 

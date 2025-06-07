@@ -1,8 +1,9 @@
 <h1 align="center">Olá, meu nome é André 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend+apaixonado+por+tecnologia;Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Python+e+Web!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;Apaixonado+por+Tecnologia;Focado+em+Python+e+Web!" alt="Typing SVG" />
 </p>
+
 
 ---
 

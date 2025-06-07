@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;Apaixonado+por+Tecnologia;Focado+em+Python+e+Web!" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 📚 Sobre mim
@@ -16,16 +15,25 @@
 
 ---
 
+### 💻 Linguagens que uso
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</p>
+
+---
+
 ### 📊 Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrefrx14&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrx14&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrx14&layout=compact&theme=radical" />
 </p>
 
-
 ---
-
 
 ## 🐍 Snake comendo os commits
 
@@ -38,6 +46,4 @@
 ### 🔗 Conecte-se comigo
 
 <p align="center">
-  <a href="https://github.com/andrefrx14"><img src="https://img.shields.io/badge/GitHub-andrefx14-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-vasconcelos-a401bb29b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
-</p>
+  <a href="https://github.com/a

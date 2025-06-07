@@ -26,10 +26,11 @@
 
 ---
 
-### 🐍 Snake comendo os commits
+
+## 🐍 Snake comendo os commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrefx14/andrefx14/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/andrefrx14/andrefrx14/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

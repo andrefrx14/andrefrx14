@@ -47,5 +47,5 @@
 
 <p align="center">
   <a href="https://github.com/andrefrx14"><img src="https://img.shields.io/badge/GitHub-andrefx14-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-vasconcelos-a401bb29b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/andrevasconcelosf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
 </p>

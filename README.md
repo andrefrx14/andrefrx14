@@ -8,8 +8,8 @@
 
 ### 📚 Sobre mim
 
-- 🌱 Atualmente estou aprendendo na **EEEP Maria Célia Pinheiro Falcão**
-- 💻 **Desenvolvimento Web** | Programação em **Python**
+- 🌱 Atualmente estou aprendendo no **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte | Campus Pau dos Ferros**
+- 💻 **Desenvolvimento Web** | Programação em **C++**
 - 💙 Sou um amante da tecnologia
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas
 
